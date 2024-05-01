@@ -1,8 +1,3 @@
-""" 
-TODO: Refine maze generating algorithms and potentially add others
-TODO: Add other algorithms
-TODO: Add live recalculating when moving a start or end (maybe hovering 'picking' it up with a button press)
-"""
 import pygame
 
 # importing all self built modules
